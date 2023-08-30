@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "0B049C3B-DDD5-4243-A086-9E9567F83E9D": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "58455BA4-B6DE-45E0-9481-26189D9F0012": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "5D13AE8C-60A5-4FA2-91AF-A94371A15B4E": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "TwitterMenti.mlmodel",
+            "path": "com.apple.CoreML/TwitterMenti.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "5D13AE8C-60A5-4FA2-91AF-A94371A15B4E"
+}
